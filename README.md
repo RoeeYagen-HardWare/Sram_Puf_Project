@@ -1,8 +1,7 @@
 **Sram_Puf_Project**                                              
-Final Project - design and simulation of a 64-bit SRAM based Physically Unclonable Function (PUF) in 45nm CMOS using Cadence Virtuoso, featuring error correction and reliability analysis
-**Project Overview** 
-The project started with the design of a single 6T SRAM cell used as a basic PUF element.  
-After successful simulation and analysis, the design was expanded into a 64-bit SRAM PUF array.
+Final Project - design and simulation of a 64-bit SRAM based Physically Unclonable Function (PUF) in 45nm CMOS using Cadence Virtuoso, featuring error correction and reliability analysis.                 
+**Project Overview**                  
+The project started with the design of a single 6T SRAM cell used as a basic PUF element, After successful simulation and analysis, the design was expanded into a 64-bit SRAM PUF array.
 
 To achieve good randomness and stability, I carefully adjusted transistor widths and balanced device sizing.  
 Monte Carlo simulations were performed to verify the statistical randomness of the PUF responses.
